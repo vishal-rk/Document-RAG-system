@@ -172,12 +172,6 @@ ask_about_documents("Can you summarize the methodology?")
 ask_about_documents("Are there any important conclusions?")
 ```
 
-## 🎥 Demo
-
-![Demo GIF](https://via.placeholder.com/600x300.png?text=Demo+GIF+Coming+Soon)
-
-*Add a GIF or screenshot of your system in action*
-
 ## 🐛 Common Issues
 
 ### Import Errors
@@ -232,8 +226,8 @@ If you find this project useful, please consider:
 
 ## 📧 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Issues: [Project Issues](https://github.com/yourusername/document-qa-system/issues)
+- GitHub: [@vishal-rk](https://github.comvishal-rk)
+- Issues: [Project Issues](https://github.com/vishal-rk/document-qa-system/issues)
 
 ## 📝 License
 
